@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=sxwm
-Comment=Simple Xorg Window Manager
-Exec=sxwm
-TryExec=sxwm
-Type=Application

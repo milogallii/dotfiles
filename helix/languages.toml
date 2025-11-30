@@ -402,6 +402,7 @@ file-types = ["ex", "exs", { glob = "mix.lock" }]
 shebangs = ["elixir"]
 roots = ["mix.exs", "mix.lock"]
 comment-token = "#"
+auto-format = true
 language-servers = [ "elixir-ls" ]
 indent = { tab-width = 2, unit = "  " }
 
